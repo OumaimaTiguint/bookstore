@@ -1,0 +1,19 @@
+.popup {
+    color: black;
+    opacity: 1;
+    overflow-y: auto;
+    height: 300px
+}
+
+.popup h2 {
+    font-weight: bold
+}
+
+.title {
+    color: white;
+    font-weight: bold;
+}
+
+button {
+    background-color: black;
+}

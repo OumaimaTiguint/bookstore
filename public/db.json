@@ -1,0 +1,210 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "products/the-midnight-library.jpg",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "description": "'Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived. To see how things would be if you had made other choices... Would you have done anything different, if you had the chance to undo your regrets?'",
+      "genre": ["sci-fi"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 2,
+      "img": "products/the-poppy-war.jpg",
+      "title": "The Poppy War",
+      "author": "R. F. Kuang",
+      "description": "When Rin aced the Keju—the Empire-wide test to find the most talented youth to learn at the Academies—it was a shock to everyone: to the test officials, who couldn’t believe a war orphan from Rooster Province could pass without cheating; to Rin’s guardians, who believed they’d finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her daily existence. That she got into Sinegard—the most elite military school in Nikan—was even more surprising. But surprises aren’t always good.",
+      "genre": ["fantasy"],
+      "price": 14.9,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "img": "products/night.jpg",
+      "title": "Night",
+      "author": "Elie Wiesel",
+      "description": "Born in the town of Sighet, Transylvania, Elie Wiesel was a teenager when he and his family were taken from their home in 1944 to Auschwitz concentration camp, and then to Buchenwald. Night is the terrifying record of Elie Wiesel's memories of the death of his family, the death of his own innocence, and his despair as a deeply observant Jew confronting the absolute evil of man. This new translation by his wife and most frequent translator, Marion Wiesel, corrects important details and presents the most accurate rendering in English of Elie Wiesel's testimony to what happened in the camps and of his unforgettable message that this horror must simply never be allowed to happen again.",
+      "genre": ["non-fiction"],
+      "price": 14.9,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "img": "products/the-book-thief.jpg",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "description": "It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.",
+      "genre": ["historical-fiction"],
+      "price": 25.9,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "img": "products/dark-matter.jpg",
+      "title": "Dark Matter",
+      "author": "Blake Crouch",
+      "description": "Jason Dessen is walking home through the chilly Chicago streets one night, looking forward to a quiet evening in front of the fireplace with his wife, Daniela, and their son, Charlie—when his reality shatters.",
+      "genre": ["sci-fi", "thriller"],
+      "price": 10.9,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "img": "products/maybe-you-should-talk-to-someone.jpg",
+      "title": "Maybe You Should Talk To Someone",
+      "author": "Lori Gottlieb",
+      "description": "One day, Lori Gottlieb is a therapist who helps patients in her Los Angeles practice. The next, a crisis causes her world to come crashing down. Enter Wendell, the quirky but seasoned therapist in whose office she suddenly lands. With his balding head, cardigan, and khakis, he seems to have come straight from Therapist Central Casting. Yet he will turn out to be anything but.",
+      "genre": ["non-fiction"],
+      "price": 49.9,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "img": "products/night-film.jpg",
+      "title": "Night Film",
+      "author": "Marisha Pessl",
+      "description": "On a damp October night, 24-year-old Ashley Cordova is found dead in an abandoned warehouse in lower Manhattan. Though her death is ruled a suicide, veteran investigative journalist Scott McGrath suspects otherwise. As he probes the strange circumstances surrounding Ashley's life and death, McGrath comes face-to-face with the legacy of her father: the legendary, reclusive cult-horror film director Stanislaus Cordova--a man who hasn't been seen in public for more than thirty years.",
+      "genre": ["thriller"],
+      "price": 22.5,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "img": "products/the-seven-deaths-of-evelyn.jpg",
+      "title": "The Seven Deaths of Evelyn Hardcastle",
+      "author": "Stuart Turton",
+      "description": "At a gala party thrown by her parents, Evelyn Hardcastle will be killed--again. She's been murdered hundreds of times, and each day, Aiden Bishop is too late to save her. Doomed to repeat the same day over and over, Aiden's only escape is to solve Evelyn Hardcastle's murder and conquer the shadows of an enemy he struggles to even comprehend--but nothing and no one are quite what they seem.",
+      "genre": ["thriller", "sci-fi"],
+      "price": 18.7,
+      "isFreeShipping": false
+    },
+    {
+      "id": 9,
+      "img": "products/the-body.jpg",
+      "title": "The Body: A Guide for Occupants",
+      "author": "Bill Bryson",
+      "description":  "In the bestselling, prize-winning A Short History of Nearly Everything, Bill Bryson achieved the seemingly impossible by making the science of our world both understandable and entertaining to millions of people around the globe. Now he turns his attention inwards to explore the human body, how it functions and its remarkable ability to heal itself. Full of extraordinary facts and astonishing stories, The Body: A Guide for Occupants is a brilliant, often very funny attempt to understand the miracle of our physical and neurological make up.",
+      "genre": ["non-fiction"],
+      "price": 134.9,
+      "isFreeShipping": true
+    },
+    {
+      "id": 10,
+      "img": "products/to-be-taught-if-fortunate.jpg",
+      "title": "To be taught if fortunate",
+      "author": "Becky Chambers",
+      "description": "In her new novella, Sunday Times best-selling author Becky Chambers imagines a future in which, instead of terraforming planets to sustain human life, explorers of the solar system instead transform themselves.",
+      "genre": ["sci-fi"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 11,
+      "img": "products/bad-blood.jpg",
+      "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "author": "John Carreyrou",
+      "description": "The full inside story of the breathtaking rise and shocking collapse of a multibillion-dollar startup, by the prize-winning journalist who first broke the story and pursued it to the end in the face of pressure and threats from the CEO and her lawyers.",
+      "genre": ["non-fiction"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 12,
+      "img": "products/recursion.jpg",
+      "title": "Recursion",
+      "author": "Blake Crouch",
+      "description": "Memory makes reality. That’s what New York City cop Barry Sutton is learning as he investigates the devastating phenomenon the media has dubbed False Memory Syndrome—a mysterious affliction that drives its victims mad with memories of a life they never lived.",
+      "genre": ["sci-fi", "thriller"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 13,
+      "img": "products/reasons-to-stay-alive.jpg",
+      "title": "Reasons To Stay Alive",
+      "author": "Matt Haig",
+      "description": "Reasons to Stay Alive is about making the most of your time on earth. In the western world the suicide rate is highest amongst men under the age of 35. Matt Haig could have added to that statistic when, aged 24, he found himself staring at a cliff-edge about to jump off. This is the story of why he didn't, how he recovered and learned to live with anxiety and depression. It's also an upbeat, joyous and very funny exploration of how live better, love better, read better and feel more.",
+      "genre": ["non-fiction"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 14,
+      "img": "products/scythe.jpg",
+      "title": "Scythe",
+      "author": "Neil Shusterman",
+      "description": "A world with no hunger, no disease, no war, no misery. Humanity has conquered all those things, and has even conquered death. Now scythes are the only ones who can end life—and they are commanded to do so, in order to keep the size of the population under control.",
+      "genre": ["fantasy", "sci-fi"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 15,
+      "img": "products/the-traveling-cat-chronicles.jpg",
+      "title": "The Travelling Cat Chronicles",
+      "author": "Hiro Arikawa",
+      "description": "Sometimes you have to leave behind everything you know to find the place you truly belong...",
+      "genre": ["contemporary"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 16,
+      "img": "products/miracle-creek.jpg",
+      "title": "Miracle Creek",
+      "author": "Angie Kim",
+      "description": "How far will you go to protect your family? Will you keep their secrets? Ignore their lies?",
+      "genre": ["thriller"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 17,
+      "img": "products/invisible-women.jpg",
+      "title": "Invisible Women",
+      "author": "Caroline Criado Perez",
+      "description": "Imagine a world where your phone is too big for your hand, where your doctor prescribes a drug that is wrong for your body, where in a car accident you are 47% more likely to be seriously injured, where every week the countless hours of work you do are not recognised or valued.",
+      "genre": ["non-fiction"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 18,
+      "img": "products/a-man-called-ove.jpg",
+      "title": "A Man Called Ove",
+      "author": "Frederik Backman",
+      "description": "A grumpy yet loveable man finds his solitary world turned on its head when a boisterous young family moves in next door.",
+      "genre": ["contemporary"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 19,
+      "img": "products/station-eleven.jpg",
+      "title": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "description": "Set in the days of civilization's collapse, Station Eleven tells the story of a Hollywood star, his would-be savior, and a nomadic group of actors roaming the scattered outposts of the Great Lakes region, risking everything for art and humanity.",
+      "genre": ["sci-fi", "thriller"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+    {
+      "id": 20,
+      "img": "products/the-name-of-the-wind.jpg",
+      "title": "The Name Of The Wind",
+      "author": "Patrick Rothfuss",
+      "description": "Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen.",
+      "genre": ["fantasy"],
+      "price": 10,
+      "isFreeShipping": true
+    }
+  ]
+}
