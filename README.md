@@ -1,9 +1,9 @@
 # Book store application using React and Redux
 
 ## Demo
-Open 
+Open https://mock-bookstore.netlify.app/
 
-![Demo](https://giphy.com/gifs/htRqXpo7lhnT6PeIFw/html5)
+![Demo](https://media.giphy.com/media/htRqXpo7lhnT6PeIFw/giphy.gif)
 
 ## Install
 ```
