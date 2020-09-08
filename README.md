@@ -7,12 +7,11 @@ Open
 
 ## Install
 ```
-$ clone https://github.com/OumaimaTiguint/bookstore.git
-$ yarn
+$ git clone https://github.com/OumaimaTiguint/bookstore.git
 ```
 
 ## Run App
 ```
-$ yarn start
+$ npm start
 ```
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
